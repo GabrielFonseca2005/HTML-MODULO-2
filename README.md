@@ -1,3 +1,8 @@
+**OBS: As informações inseridas nas páginas são fictícias, o logo foi feito no Canva, e a seguir estarão os links das imagens utilizadas:**
+<a href="https://br.freepik.com/psd-gratuitas/interior-do-salao-do-hospital-de-luxo-generative-ai_47895986.htm#query=clinica&position=2&from_view=keyword&track=sph&uuid=cdb811a0-0f4c-4f50-8ecf-df4dd3a80be7">Imagem de WangXiNa</a> no Freepik;
+<a href="https://br.freepik.com/fotos-gratis/maos-da-medica-irreconhecivel-digitando-no-teclado-no-escritorio_5839267.htm#query=clinica&position=12&from_view=keyword&track=sph&uuid=526101ac-2696-448c-a8fa-957204052994">Imagem de pressfoto</a> no Freepik;
+<a href="https://br.freepik.com/fotos-gratis/medico-no-consultorio-do-oftalmologista_78546355.htm#fromView=search&page=2&position=51&uuid=3f93d467-9b9b-4f3f-9193-d6faabd55794">Imagem de freepik</a> .
+
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
